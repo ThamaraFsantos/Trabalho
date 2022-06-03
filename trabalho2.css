@@ -1,0 +1,15 @@
+body{
+	background-color: orange;
+}
+
+h1{
+	align-items: center;
+	text-align: center;
+	width: 50vw;
+	height: 5vh;
+	background-color: red;
+	color: yellow;
+	border:5px solid black;
+	margin: auto;
+	border-radius: 50px;
+}
